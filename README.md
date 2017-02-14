@@ -1,4 +1,4 @@
-# IntelliJ-IDEA-Xcode-Keymap
+# PyCharm-Xcode-Keymap
 
 Previous versions of IntelliJ and AppCode already have Xcode Keymap.
 
@@ -9,7 +9,7 @@ It's based on the Xcode keymap IntelliJ IDEA ships with: https://github.com/JetB
 
 ## Installation
 ```bash
-$ git clone https://github.com/Pitzcarraldo/IntelliJ-IDEA-Xcode-Keymap.git
-$ cd ./IntelliJ-IDEA-Xcode-Keymap
+$ git clone https://github.com/youknowone/PyCharm-Xcode-Keymap
+$ cd ./PyCharm-Xcode-Keymap
 $ ./install.sh
 ```
